@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DannyPizza</string>
+    <string name="app_name" >Dannys Pizza</string>
+    <string name="facebook_application_id" translatable="false">712932682241739</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb712932682241739</string>
 </resources>

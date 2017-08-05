@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805177464290",
+    "firebase_url": "https://dannypizza-34fe7.firebaseio.com",
+    "project_id": "dannypizza-34fe7",
+    "storage_bucket": "dannypizza-34fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805177464290:android:815e2629f634d7fd",
+        "android_client_info": {
+          "package_name": "com.example.dannypizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805177464290-unn9d1em194vmpst4m538hluvll6o3in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dannypizza",
+            "certificate_hash": "6de39c6f4f8ec517b3c5c79f11272f685595456c"
+          }
+        },
+        {
+          "client_id": "805177464290-44dnqg8p3hdh3mr6e48u5jqu1tam1asj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0Ldg0KVqljhrJvFhvvdLxYsVkY-W-uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805177464290-44dnqg8p3hdh3mr6e48u5jqu1tam1asj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
